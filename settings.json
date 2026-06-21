@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Reaper_is_Gay",
+    "username": "Zaider+omesha",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Raptorxoxo.ateme",
+    "ip": "Raptorxoxo.aternos.me",
     "port": 28410,
     "version": "",
     "try-creative": false
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 20,
       "messages": [
-        "Reaper is Top gay",
+        "zaider and omesha is best couple,but zaider is big baduw",
         "Ceylonesports"
       ]
     },
