@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Zaider+omesha",
+    "username": "ceylonbota",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Raptorxoxo.rnos.me",
-    "port": 28410,
+    "ip": "ceylonesports.aternos.me",
+    "port": 49007,
     "version": "",
     "try-creative": false
   },
@@ -29,9 +29,8 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 20,
+      "repeat-delay": 200,
       "messages": [
-        "zaider and omesha is best couple,but zaider is big baduw",
         "Ceylonesports"
       ]
     },
