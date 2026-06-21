@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ceylonesports.aternos.me",
-    "port": 49007,
+    "ip": "ceylonesports.falixsrv.me",
+    "port": 35540,
     "version": "",
     "try-creative": false
   },
