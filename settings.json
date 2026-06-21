@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 20,
       "messages": [
-        "I love Reaper",
-        "I like to play Minecraft!"
+        "Reaper is Top gay",
+        "Ceylonesports"
       ]
     },
     "chat-log": true,
