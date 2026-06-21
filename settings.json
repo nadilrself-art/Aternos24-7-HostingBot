@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Ceylonbota",
+    "username": "Reaper_is_Gay",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Raptorxoxo.",
+    "ip": "Raptorxoxo.aternos.me",
     "port": 28410,
     "version": "",
     "try-creative": false
